@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Tests\\UserAuthApp.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj",
+        "projectName": "UserAuthApp.Application",
+        "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj",
+        "packagesPath": "C:\\Users\\walkt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\walkt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj",
+        "projectName": "UserAuthApp.Domain",
+        "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\walkt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\walkt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj",
+        "projectName": "UserAuthApp.Infrastructure",
+        "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\walkt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\walkt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Tests\\UserAuthApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Tests\\UserAuthApp.Tests.csproj",
+        "projectName": "UserAuthApp.Tests",
+        "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Tests\\UserAuthApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\walkt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\walkt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj": {
+                "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj"
+              },
+              "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

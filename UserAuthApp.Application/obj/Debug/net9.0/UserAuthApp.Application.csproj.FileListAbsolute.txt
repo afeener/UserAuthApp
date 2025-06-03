@@ -1,0 +1,15 @@
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\bin\Debug\net9.0\UserAuthApp.Application.deps.json
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\bin\Debug\net9.0\UserAuthApp.Application.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\bin\Debug\net9.0\UserAuthApp.Application.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\bin\Debug\net9.0\UserAuthApp.Domain.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\bin\Debug\net9.0\UserAuthApp.Domain.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuthApp.Application.csproj.AssemblyReference.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuthApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuthApp.Application.AssemblyInfoInputs.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuthApp.Application.AssemblyInfo.cs
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuthApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuth.4CB30C08.Up2Date
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuthApp.Application.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\refint\UserAuthApp.Application.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\UserAuthApp.Application.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Application\obj\Debug\net9.0\ref\UserAuthApp.Application.dll

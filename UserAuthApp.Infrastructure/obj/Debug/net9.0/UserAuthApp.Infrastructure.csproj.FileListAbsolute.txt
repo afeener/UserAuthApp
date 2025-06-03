@@ -1,0 +1,15 @@
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\bin\Debug\net9.0\UserAuthApp.Infrastructure.deps.json
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\bin\Debug\net9.0\UserAuthApp.Infrastructure.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\bin\Debug\net9.0\UserAuthApp.Infrastructure.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\bin\Debug\net9.0\UserAuthApp.Domain.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\bin\Debug\net9.0\UserAuthApp.Domain.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuthApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuthApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuthApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuthApp.Infrastructure.AssemblyInfo.cs
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuthApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuth.FB6A5AF6.Up2Date
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuthApp.Infrastructure.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\refint\UserAuthApp.Infrastructure.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\UserAuthApp.Infrastructure.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Infrastructure\obj\Debug\net9.0\ref\UserAuthApp.Infrastructure.dll

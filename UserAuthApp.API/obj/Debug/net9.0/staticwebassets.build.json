@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "64IMs3/VuGtZyF/45a0A0nbSrjAh0QhTKVvI3nnouvQ=",
+  "Source": "UserAuthApp.API",
+  "BasePath": "_content/UserAuthApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

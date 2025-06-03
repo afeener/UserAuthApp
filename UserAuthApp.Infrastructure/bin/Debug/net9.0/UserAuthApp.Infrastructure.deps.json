@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "UserAuthApp.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UserAuthApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UserAuthApp.Infrastructure.dll": {}
+        }
+      },
+      "UserAuthApp.Domain/1.0.0": {
+        "runtime": {
+          "UserAuthApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserAuthApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserAuthApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\bin\Debug\net9.0\UserAuthApp.Domain.deps.json
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\bin\Debug\net9.0\UserAuthApp.Domain.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\bin\Debug\net9.0\UserAuthApp.Domain.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\UserAuthApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\UserAuthApp.Domain.AssemblyInfoInputs.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\UserAuthApp.Domain.AssemblyInfo.cs
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\UserAuthApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\UserAuthApp.Domain.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\refint\UserAuthApp.Domain.dll
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\UserAuthApp.Domain.pdb
+C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.Domain\obj\Debug\net9.0\ref\UserAuthApp.Domain.dll
