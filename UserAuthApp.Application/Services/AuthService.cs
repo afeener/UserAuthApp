@@ -1,4 +1,5 @@
 using UserAuthApp.Domain.Interfaces;
+using UserAuthApp.Common;
 
 namespace UserAuthApp.Application.Services
 {
@@ -17,22 +18,15 @@ namespace UserAuthApp.Application.Services
         {
             var user = _userRepository.GetUserByEmail(email);
 
-            /* We could pull out the strings into constants inside a static Messages class.
-                ex: 
-                    public const string LoginSuccess = "User {0} logged in";)
-                    ...
-                    _notificationService.Notify(string.Format(Messages.LoginSuccessTemplate, email));
-
-                This would let us keep all the messages in one place - easier to maintain and reuse. Could use the Messages class in unit testing too.
-            */
-            if (user != null && user.Password == password)
+            if (user == null || user.Password != password)
             {
-                _notificationService.Notify($"User {email} logged in");
-                return true;
+
+                _notificationService.Notify(Messages.InvalidCredentials);
+                return false;
             }
 
-            //_notificationService.Notify(Messages.LoginFailed);
-            return false;
+            _notificationService.Notify(Messages.UserLoggedIn(email));
+             return true;
         }
     }
 }

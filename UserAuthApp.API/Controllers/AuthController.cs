@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using UserAuthApp.Application.Services;
+using UserAuthApp.Common;
 
 namespace UserAuthApp.API.Controllers
 {
@@ -20,9 +21,9 @@ namespace UserAuthApp.API.Controllers
             var isAuthenticated = _authService.Authenticate(email, password);
 
             if (!isAuthenticated)
-                return Unauthorized("Invalid credentials");
+                return Unauthorized(Messages.InvalidCredentials);
 
-            return Ok("Login successful");
+            return Ok(Messages.LoginSuccessful);
         }
     }
 }

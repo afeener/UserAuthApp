@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v9.0": {
       "UserAuthApp.Application/1.0.0": {
         "dependencies": {
+          "UserAuthApp.Common": "1.0.0",
           "UserAuthApp.Domain": "1.0.0"
         },
         "runtime": {
           "UserAuthApp.Application.dll": {}
+        }
+      },
+      "UserAuthApp.Common/1.0.0": {
+        "runtime": {
+          "UserAuthApp.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "UserAuthApp.Domain/1.0.0": {
@@ -26,6 +35,11 @@
   },
   "libraries": {
     "UserAuthApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserAuthApp.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

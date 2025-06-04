@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "UserAuthApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/UserAuthApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserAuthApp.Common.dll": {}
+        }
+      },
       "UserAuthApp.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "UserAuthApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../UserAuthApp.Common/UserAuthApp.Common.csproj",
+      "msbuildProject": "../UserAuthApp.Common/UserAuthApp.Common.csproj"
+    },
     "UserAuthApp.Domain/1.0.0": {
       "type": "project",
       "path": "../UserAuthApp.Domain/UserAuthApp.Domain.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "UserAuthApp.Common >= 1.0.0",
       "UserAuthApp.Domain >= 1.0.0"
     ]
   },
@@ -51,6 +67,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Common\\UserAuthApp.Common.csproj": {
+              "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Common\\UserAuthApp.Common.csproj"
+            },
             "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj": {
               "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Domain\\UserAuthApp.Domain.csproj"
             }

@@ -1,0 +1,12 @@
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\bin\Debug\net9.0\UserAuthApp.Common.deps.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\bin\Debug\net9.0\UserAuthApp.Common.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\bin\Debug\net9.0\UserAuthApp.Common.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\UserAuthApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\UserAuthApp.Common.AssemblyInfoInputs.cache
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\UserAuthApp.Common.AssemblyInfo.cs
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\UserAuthApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\UserAuthApp.Common.sourcelink.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\UserAuthApp.Common.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\refint\UserAuthApp.Common.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\UserAuthApp.Common.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.Common\obj\Debug\net9.0\ref\UserAuthApp.Common.dll

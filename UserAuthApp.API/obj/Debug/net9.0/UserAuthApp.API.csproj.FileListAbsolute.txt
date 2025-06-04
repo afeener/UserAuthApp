@@ -39,3 +39,47 @@ C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.API\obj\Debug\net9.0\refint\
 C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.pdb
 C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.genruntimeconfig.cache
 C:\Users\walkt\OneDrive\Desktop\New app\UserAuthApp.API\obj\Debug\net9.0\ref\UserAuthApp.API.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\refint\UserAuthApp.API.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\appsettings.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.API.staticwebassets.endpoints.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.API.exe
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.API.deps.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.API.runtimeconfig.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.API.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.API.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Application.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Common.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Domain.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Infrastructure.dll
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Application.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Infrastructure.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Common.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\bin\Debug\net9.0\UserAuthApp.Domain.pdb
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.csproj.AssemblyReference.cache
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.AssemblyInfoInputs.cache
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.AssemblyInfo.cs
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.csproj.CoreCompileInputs.cache
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.sourcelink.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\scopedcss\bundle\UserAuthApp.API.styles.css
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets\msbuild.UserAuthApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets\msbuild.UserAuthApp.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets\msbuild.build.UserAuthApp.API.props
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.UserAuthApp.API.props
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.UserAuthApp.API.props
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuth.AB1A25E0.Up2Date
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\UserAuthApp.API.genruntimeconfig.cache
+C:\Users\walkt\OneDrive\Desktop\Alex Feener UserAuthApp\UserAuthApp.API\obj\Debug\net9.0\ref\UserAuthApp.API.dll

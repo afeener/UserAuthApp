@@ -93,6 +93,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "UserAuthApp.Common": "1.0.0",
           "UserAuthApp.Domain": "1.0.0"
         },
         "compile": {
@@ -100,6 +101,16 @@
         },
         "runtime": {
           "bin/placeholder/UserAuthApp.Application.dll": {}
+        }
+      },
+      "UserAuthApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/UserAuthApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserAuthApp.Common.dll": {}
         }
       },
       "UserAuthApp.Domain/1.0.0": {
@@ -481,6 +492,11 @@
       "path": "../UserAuthApp.Application/UserAuthApp.Application.csproj",
       "msbuildProject": "../UserAuthApp.Application/UserAuthApp.Application.csproj"
     },
+    "UserAuthApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../UserAuthApp.Common/UserAuthApp.Common.csproj",
+      "msbuildProject": "../UserAuthApp.Common/UserAuthApp.Common.csproj"
+    },
     "UserAuthApp.Domain/1.0.0": {
       "type": "project",
       "path": "../UserAuthApp.Domain/UserAuthApp.Domain.csproj",
@@ -496,6 +512,7 @@
     "net9.0": [
       "Swashbuckle.AspNetCore >= 6.6.0",
       "UserAuthApp.Application >= 1.0.0",
+      "UserAuthApp.Common >= 1.0.0",
       "UserAuthApp.Infrastructure >= 1.0.0"
     ]
   },
@@ -526,6 +543,9 @@
           "projectReferences": {
             "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj": {
               "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj"
+            },
+            "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Common\\UserAuthApp.Common.csproj": {
+              "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Common\\UserAuthApp.Common.csproj"
             },
             "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj"

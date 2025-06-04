@@ -1067,10 +1067,19 @@
       "xunit.runner.visualstudio/2.4.5": {},
       "UserAuthApp.Application/1.0.0": {
         "dependencies": {
+          "UserAuthApp.Common": "1.0.0",
           "UserAuthApp.Domain": "1.0.0"
         },
         "runtime": {
           "UserAuthApp.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "UserAuthApp.Common/1.0.0": {
+        "runtime": {
+          "UserAuthApp.Common.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1741,6 +1750,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
     },
     "UserAuthApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserAuthApp.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
