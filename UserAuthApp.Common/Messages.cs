@@ -3,6 +3,8 @@
 public static class Messages
 {
     public static string LoginSuccessful => "Login successful";
-    public static string UserLoggedIn(string email) => "User {0} logged in";
+    public static string UserLoggedIn(string email) => $"User {email} logged in";
     public static string InvalidCredentials => "Invalid email or password";
+    public static string PasswordChanged => "Password changed";
+    public static string PasswordNotChanged => "Unable to change password";
 }

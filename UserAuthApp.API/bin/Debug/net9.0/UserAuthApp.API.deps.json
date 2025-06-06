@@ -10,7 +10,6 @@
         "dependencies": {
           "Swashbuckle.AspNetCore": "6.6.1",
           "UserAuthApp.Application": "1.0.0",
-          "UserAuthApp.Common": "1.0.0",
           "UserAuthApp.Infrastructure": "1.0.0"
         },
         "runtime": {

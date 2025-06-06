@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthApp.API", "UserAuth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthApp.Tests", "UserAuthApp.Tests\UserAuthApp.Tests.csproj", "{016AB074-F5B3-4AA6-8061-C2F67CBCEAF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthApp.Common", "UserAuthApp.Common\UserAuthApp.Common.csproj", "{D561174E-0FCB-42DA-9240-6764DB8B5B1A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,18 +83,6 @@ Global
 		{016AB074-F5B3-4AA6-8061-C2F67CBCEAF2}.Release|x64.Build.0 = Release|Any CPU
 		{016AB074-F5B3-4AA6-8061-C2F67CBCEAF2}.Release|x86.ActiveCfg = Release|Any CPU
 		{016AB074-F5B3-4AA6-8061-C2F67CBCEAF2}.Release|x86.Build.0 = Release|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Debug|x64.Build.0 = Debug|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Debug|x86.Build.0 = Debug|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Release|x64.ActiveCfg = Release|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Release|x64.Build.0 = Release|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Release|x86.ActiveCfg = Release|Any CPU
-		{D561174E-0FCB-42DA-9240-6764DB8B5B1A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

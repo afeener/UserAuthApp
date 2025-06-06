@@ -512,7 +512,6 @@
     "net9.0": [
       "Swashbuckle.AspNetCore >= 6.6.0",
       "UserAuthApp.Application >= 1.0.0",
-      "UserAuthApp.Common >= 1.0.0",
       "UserAuthApp.Infrastructure >= 1.0.0"
     ]
   },
@@ -543,9 +542,6 @@
           "projectReferences": {
             "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj": {
               "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Application\\UserAuthApp.Application.csproj"
-            },
-            "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Common\\UserAuthApp.Common.csproj": {
-              "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Common\\UserAuthApp.Common.csproj"
             },
             "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\walkt\\OneDrive\\Desktop\\Alex Feener UserAuthApp\\UserAuthApp.Infrastructure\\UserAuthApp.Infrastructure.csproj"

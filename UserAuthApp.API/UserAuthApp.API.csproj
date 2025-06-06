@@ -9,7 +9,6 @@
   <ItemGroup>
     <ProjectReference Include="..\UserAuthApp.Application\UserAuthApp.Application.csproj" />
     <ProjectReference Include="..\UserAuthApp.Infrastructure\UserAuthApp.Infrastructure.csproj" />
-    <ProjectReference Include="..\UserAuthApp.Common\UserAuthApp.Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>

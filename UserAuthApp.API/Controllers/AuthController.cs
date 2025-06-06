@@ -25,5 +25,16 @@ namespace UserAuthApp.API.Controllers
 
             return Ok(Messages.LoginSuccessful);
         }
+
+        [HttpPost("changePassword")]
+        public IActionResult ChangePassword(string email, string currentPassword, string? newPassword)
+        {
+            var isChanged = _authService.ChangePassword(email, currentPassword, newPassword);
+
+            if (!isChanged)
+                return Unauthorized(Messages.InvalidCredentials);
+
+            return Ok(Messages.PasswordChanged);
+        }
     }
 }
